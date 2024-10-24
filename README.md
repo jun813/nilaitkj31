@@ -2,5 +2,5 @@
 Aplikasi Nilai Angkatan 31
 
 
-## Tabel Santri
+## Tabel Jurusan
 ## Tabel Nilai
